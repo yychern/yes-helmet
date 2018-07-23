@@ -6,3 +6,8 @@ Increase the usage of bicycle helmet for bicyclists.
 **Members**: yychern, nyanduko, and collengine
 
 Our team members come from Southeast Asia and Africa, based in Geneva, Switzerland, collaborating with innovation labs in Europe and East Asia.
+
+**Solutions**:
+Independent mobile-application, gamification of image processing feature, potential to work with business to incentivize.
+*Software*: Machine-learning helmet-detecting mobile application, gamification and incentivize users to wear the helmet.
+*Behavioural*: Carrying out social media campaigns in partnership International Organization.
