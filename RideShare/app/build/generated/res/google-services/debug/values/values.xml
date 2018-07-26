@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">31017444296-p5anicb82e98gd9pdq45qtoist3u0fpb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://allanapp-cc3a7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">31017444296</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrdiASvNFZexjuXwlsjKl5zad418L2yEo</string>
+    <string name="google_app_id" translatable="false">1:31017444296:android:f74bd4a729110a09</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrdiASvNFZexjuXwlsjKl5zad418L2yEo</string>
+    <string name="google_storage_bucket" translatable="false">allanapp-cc3a7.appspot.com</string>
+    <string name="project_id" translatable="false">allanapp-cc3a7</string>
+</resources>
