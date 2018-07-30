@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="black">#161515</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="yellow">#ecd235</color>
+
+    <color name="colorTitle">#38abee</color>
+    <color name ="windowBackground" >#FFFFFF</color>
+    <color name ="navigationBarColor" >#000000</color>
+    <color name ="colorAccent" >#d8e8ee</color>
+    <color name ="colorAccent2" >#b8e8ee</color>
+    <color name="color_primary_white">#ffffff</color>
+    <color name="color_primary_red">#f44336</color>
+    <color name="color_primary_white_dark">#ffffff</color>
+    <color name="color_accent_white">#ffffff</color>
+    <color name="color_primary_red_dark">#d32f2f</color>
+    <color name="color_primary_green"> #4caf50</color>
+    <color name="color_primary_green_dark">#388e3c</color>
+    <color name="color_primary_blue">#2196f3</color>
+    <color name="color_primary_blue_dark">#1976d2</color>
+    <color name="color_accent_pink">#ff4081</color>
+    <color name="feint_pink">#ff4081</color>
+
+    <color name="color_option_menu">#FF3990</color>
+    <color name="filter_label_normal">#8A8889</color>
+    <color name="filter_label_selected">#221F20</color>
+    <color name="color_accent_pink2">#a3ff4081</color>
+    <color name="color_shadow">#44000000</color>
+    <color name="white">#d5cece</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="selectok">#38abee</color>
+    <color name="selectcancel">#161515</color>
+    <color name ="White_full">#ffffff</color>
+    <color name="contact_name">#333333</color>
+    <color name="contact_number">#8c8c8c</color>
+
+
+    <color name="action_bar_bg">#3b5998</color>
+
+    <color name="claim_bg">#42cdca</color>
+    <color name="claim_bg_1">#4fa7d3</color>
+    <color name="claim_bg_2">#5e5394</color>
+    <color name="claim_bg_0">#2e2344</color>
+    <color name="claim_bg_3">#57426b</color>
+    <color name="claim_bg_4">#42cdca</color>
+
+    <color name="claim_bg_10">#57426b</color>
+
+
+    <color name ="bg_login" >#26ae90</color>
+    <color name ="bg_register" >#2e3237</color>
+    <color name ="bg_main" >#428bca</color>
+
+    <color name ="input_login" >#222222</color>
+    <color name ="cash_blue1" >#ff42ccc8</color>
+    <color name ="cash_blue2" >#ff4d9bd0</color>
+    <color name = "cahs_light">#ff42ccc8</color>
+
+
+    <color name ="input_login_hint" >#999999</color>
+    <color name ="input_register" >#888888</color>
+    <color name ="input_register_bg" >#3b4148</color>
+    <color name ="input_register_hint" >#5e6266</color>
+    <color name ="btn_login" >#26ae90</color>
+    <color name ="btn_black" >#000000</color>
+    <color name ="btn_grey" >#5e6266</color>
+    <color name ="edit_profile_bg" >#00aced</color>
+    <color name ="btn_login_bg" >#eceef1</color>
+    <color name ="twitter_blue" >#1dcaff</color>
+    <color name="feature_blue">#16aef7</color>
+    <color name ="twitter_white" >#ffffff</color>
+    <color name ="lbl_name" >#333333</color>
+    <color name ="btn_logut_bg" >#ff6861</color>
+
+    <color name="colorPrimaryauth">#00bcd4</color>
+    <color name="colorPrimaryDarkauth">#0097a7</color>
+    <color name="colorAccentauth">#f2fe71</color>
+
+
+</resources>

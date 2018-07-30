@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "31017444296",
+    "firebase_url": "https://allanapp-cc3a7.firebaseio.com",
+    "project_id": "allanapp-cc3a7",
+    "storage_bucket": "allanapp-cc3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31017444296:android:f74bd4a729110a09",
+        "android_client_info": {
+          "package_name": "com.collengine.sulu.rideshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31017444296-3ljb3223qshbfl4poccljs72okn8fqma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.collengine.sulu.rideshare",
+            "certificate_hash": "039154453eb426b8e0d8c89fe7125c2fa6010329"
+          }
+        },
+        {
+          "client_id": "31017444296-p5anicb82e98gd9pdq45qtoist3u0fpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrdiASvNFZexjuXwlsjKl5zad418L2yEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31017444296-p5anicb82e98gd9pdq45qtoist3u0fpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
