@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ride Share</string>
+    <string name="picture">Picture</string>
+    <string name="help_text">
+      <b>HDR Viewfinder Demo:</b>\n\n
+
+      Tap viewfinder to switch modes.\n\n
+
+      <b>Normal:</b> Standard camera preview\n
+      <b>Split:</b> Manual exposure control\n
+      <b>HDR:</b> Fused HDR viewfinder\n\n
+
+      Swipe up/down in Split/HDR modes to change manual exposure
+      values.\n\n
+
+      The left half of the viewfinder controls exposure time for
+      even-numbered frames, and the right half of the viewfinder
+      controls exposure time for odd-numbered frames
+    </string>
+
+    <string name="info">Info</string>
+
+    <string name="camera_permission_rationale">This sample app requires camera access in order to
+        demo the API.</string>
+    <string name="camera_no_good">No back-facing sufficiently capable camera available!</string>
+    <string name="camera_disabled">Camera is disabled by device policy</string>
+    <string name="camera_disconnected">Camera was disconnected before it was opened</string>
+    <string name="camera_error">Camera service reported an error</string>
+    <string name="camera_unknown">Unknown camera error: %s</string>
+    <string name="camera_permission_denied_explanation">You\'ve denied a permission that the app
+        needs for core functionality. If you selected &quot;don\'t ask again&quot; in the past then
+        you need to use Settings to re-enable the permission.</string>
+
+    <string name="ok">OK</string>
+    <string name="settings">Settings</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="toggle_turn_on">Front</string>
+    <string name="toggle_turn_off">Back</string>
+    <string name="desc_camera_source_activity">Vision detectors demo with live camera preview</string>
+    <string name="desc_still_image_activity">Vision detectors demo with a still image</string>
+
+
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fresh_config">Fresh Config</string>
+    <string name="fab_description">FAB button description</string>
+    <string name="part_one">Part One</string>
+    <string name="part_two">Part Two</string>
+    <string name="part_three">Part Three</string>
+
+    <string name="tab_1">INBOX</string>
+    <string name="tab_2">Home</string>
+    <string name="tab_3">CONTACTS</string>
+    <string name="tab_4">MYPOSTS</string>
+
+    <string name="activity_title_main">Filters</string>
+
+    <string name="filters">FILTERS</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+    <string name="tab_caption">CAPTION</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_done">DONE</string>
+    <string name="action_open">OPEN</string>
+    <string name="action_caption">CAPTION</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_signout">Sign out</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="nav_item_ads">My Profile</string>
+    <string name="nav_item_profile">My Ads</string>
+    <string name="nav_item_sign_out">Sign Out</string>
+    <string name="nav_item_feed_back">FeedBack</string>
+    <string name="nav_item_invite">Invite</string>
+    <string name="nav_item_notifications">Messages</string>
+    <!-- navigation drawer item labels -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_profile</item>
+        <item>@string/nav_item_ads</item>
+        <item>@string/nav_item_invite</item>
+        <item>@string/nav_item_sign_out</item>
+        <item>@string/nav_item_feed_back</item>
+
+    </string-array>
+    <string name="title_messages">Profile</string>
+    <string name="profile_status"><b>Ultimately the design process is about art</b><b>It is about imagination and everything outside the box</b>
+    <b> Steve said this of art</b><b>The most fulling aspect of art it the transformation from a concept to a concrete masterpiece</b></string>
+
+
+    <string name="cause_crash">Cause Crash</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_edit_user_name">Edit</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+
+
+    <string name="hello_world">Hello world!</string>
+
+
+    <!--  Action Mode Menu Items -->
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="forward">Forward</string>
+    <string name="appbar_scrolling_view_behavior_ok" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_select_group">SelectGroup</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="empty">Field must not be left empty</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone_number">+254 722 123 456</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not having an Account. Singup Here</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"> <![CDATA[<< Back]]> </string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="invite">Send invitations!</string>
+    <string name="welcome">Invites</string>
+    <string name="referrer_hint">Deep link not provided</string>
+    <string name="deep_link_default">Deep link not set</string>
+    <string name="invitation_id_default">Invitation ID not set</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="invitation_title">Send App Invite </string>
+    <string name="invitation_message">Check out the Birichi App</string>
+    <string name="invitation_deep_link">https://play.google.com/store/apps/details?id=collengine.com.ojblack</string>
+    <string name="invitation_custom_image">https://www.google.com/images/branding/googlelogo/2x/googlelog</string>
+    <string name="invitation_cta">Install!</string>
+    <string name="deep_link_fmt" formatted="false">Deep Link: %s</string>
+    <string name="invitation_id_fmt" formatted="false">Invitation ID: %s</string>
+    <string name="sent_invitations_fmt" formatted="false">Sent %d invitations</string>
+    <string name="send_failed">Sending invitations failed</string>
+    <string name="invite_dialog_title">You got an invitation!</string>
+    <string name="google_play_services_error">Google Play Services Error</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="btnCapture">capture</string>
+
+    <string name="age_arrays">
+        <item>15-18</item>
+        <item>19-25</item>
+        <item>26-30</item>
+        <item>31-35</item>
+        <item>36-40</item>
+        <item>Above 40</item>
+
+    </string>
+    <string name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+
+    </string>
+    <string name="gender_prompt">Select your Gender</string>
+    <string name="age_prompt">Select your Age</string>
+
+    <string name="facebook_app_id">363412970861923</string>
+    <string name="fb_login_protocol_scheme">fb363412970861923</string>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.collengine.sulu.rideshare.login.UserDataActivity">
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_gravity="left"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/edit_profile_bg"
+            android:background="@drawable/edit_profilr_btn"
+            android:padding="5dp"
+            android:text="Add User Name"/>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content">
+
+
+            <EditText
+                android:id="@+id/login_user_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textColor ="#00505f" />
+        </android.support.design.widget.TextInputLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/edit_profile_bg"
+            android:background="@drawable/edit_profilr_btn"
+            android:padding="5dp"
+            android:text="Add First Name"/>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content">
+
+
+            <EditText
+                android:id="@+id/loging_user_firstname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="4"
+                android:singleLine="true"
+                android:textColor ="#00505f" />
+        </android.support.design.widget.TextInputLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/edit_profile_bg"
+            android:background="@drawable/edit_profilr_btn"
+            android:padding="5dp"
+            android:text="Add Last Name"/>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content">
+
+
+            <EditText
+                android:id="@+id/login_user_lstname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="4"
+                android:singleLine="true"
+                android:textColor ="#00505f" />
+        </android.support.design.widget.TextInputLayout>
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+
+
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/next_button"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="40px"
+
+            android:background="@drawable/edit_profilr_btn"
+            android:textAllCaps="false"
+            android:text="next"
+            android:layout_alignParentEnd="true"
+            android:textColor="@color/edit_profile_bg"
+            android:textSize="13dp" />
+    </RelativeLayout>
+
+
+</RelativeLayout>
