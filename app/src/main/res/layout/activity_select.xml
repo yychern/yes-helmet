@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.collengine.sulu.rideshare.SelectActivity">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/unlock_img"
+        android:clickable="true"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/ic_action_appature"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unlock Bike"
+        android:id="@+id/text_unlock"
+        android:layout_marginTop="12dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/unlock_img"
+        android:layout_marginBottom="30dp"/>
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/challenge_img"
+        android:clickable="true"
+        android:layout_below="@+id/text_unlock"
+        android:src="@drawable/ic_action_unlock"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play The Challenge"
+        android:layout_marginTop="12dp"
+        android:id="@+id/text_challenge"
+        android:layout_marginBottom="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/challenge_img"/>
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/yes_points_img"
+        android:clickable="true"
+        android:layout_below="@+id/text_challenge"
+        android:src="@drawable/ic_action_unlock"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Check Yes Points"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/yes_points_img"/>
+
+
+</RelativeLayout>

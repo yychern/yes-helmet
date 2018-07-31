@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.collengine.sulu.rideshare.fragments.RedeemFragment">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/redeem_bike_store"
+        android:layout_marginTop="100dp"
+        android:clickable="true"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_action_unlock"
+        android:layout_centerHorizontal="true"
+        />
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:clickable="true"
+        android:id="@+id/redeem_starbucks"
+        android:layout_below="@+id/redeem_bike_store"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_action_unlock"
+        android:layout_centerHorizontal="true"
+        />
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/redeem_wallmart"
+        android:clickable="true"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_action_unlock"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>
