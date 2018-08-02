@@ -13,6 +13,7 @@
 // limitations under the License.
 package com.collengine.sulu.rideshare.Helper;
 
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.Intent;
@@ -90,6 +91,7 @@ public class CloudImageLabelingProcessor
           mIntent.putExtra("VERIFY" , "verified");
       //    Log.e(TAG, "cloud label inside if: " +  "   " + confidence);
           context.startActivity(mIntent);
+          ((Activity)context).finish();
       }
 //      else if(labelsStr.contains("headgear")){
 //
