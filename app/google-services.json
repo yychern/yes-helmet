@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "31017444296-c7rq3jk7g55qarrb42o8p7sh1356c2sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.collengine.sulu.rideshare",
+            "certificate_hash": "d59c5ff8ee6eae4485fdfaccf5e6afff4ea38986"
+          }
+        },
+        {
           "client_id": "31017444296-p5anicb82e98gd9pdq45qtoist3u0fpb.apps.googleusercontent.com",
           "client_type": 3
         }
