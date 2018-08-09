@@ -21,13 +21,15 @@ public class ChallengeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_challenge);
 
-//        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-//        setSupportActionBar(toolbar);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setBackgroundColor(getResources().getColor(R.color.color_primary_blue));
+        setSupportActionBar(toolbar);
 
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewPager);
         setupViewPager(viewPager);//Set up View Pager
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabLayout);
+        tabLayout.setBackgroundColor(getResources().getColor(R.color.colorTitle));
         tabLayout.setupWithViewPager(viewPager);//setting tab over viewpager
     }
 

@@ -148,7 +148,7 @@ public class LoginActivity extends AppCompatActivity implements  View.OnClickLis
 
 
 
-            Intent myIntent = new Intent(LoginActivity.this, com.collengine.sulu.rideshare.MainActivity.class);
+            Intent myIntent = new Intent(LoginActivity.this, com.collengine.sulu.rideshare.SelectActivity.class);
             myIntent.putExtra("USER_ID", userUID);
             startActivity( myIntent);
             return;
@@ -241,7 +241,7 @@ public class LoginActivity extends AppCompatActivity implements  View.OnClickLis
             Toast.makeText(this, "Welcome " + user.getEmail(), Toast.LENGTH_SHORT).show();
 
 
-            Intent myIntent = new Intent(LoginActivity.this, com.collengine.sulu.rideshare.MainActivity.class);
+            Intent myIntent = new Intent(LoginActivity.this, com.collengine.sulu.rideshare.SelectActivity.class);
             myIntent.putExtra("USER_ID", userUID);
             startActivity( myIntent);
 
@@ -401,7 +401,7 @@ public class LoginActivity extends AppCompatActivity implements  View.OnClickLis
             Log.e("Login Error", "Secondly We are looking for the verified:  " + verified);
 
 
-            Intent myIntent = new Intent(LoginActivity.this, com.collengine.sulu.rideshare.MainActivity.class);
+            Intent myIntent = new Intent(LoginActivity.this, com.collengine.sulu.rideshare.SelectActivity.class);
             myIntent.putExtra("USER_ID", userUID);
             startActivity(myIntent);
 
