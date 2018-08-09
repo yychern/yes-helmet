@@ -5,29 +5,33 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.collengine.sulu.rideshare.TakeChallengeActivity">
+
     <LinearLayout
+        android:id="@+id/text_holder"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="304dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:layout_marginTop="180dp"
-        android:id="@+id/text_holder"
-        android:orientation="vertical"
-        android:background="#23e1ff">
+        android:background="#00B2EE"
+        android:orientation="vertical">
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
+            android:layout_marginTop="50dp"
+            android:text="Hi Ess. Welcome to the Safe Smiles challenge. Show us the teeth, and the helmet!"
+            android:textStyle="italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_marginBottom="40dp"
-            android:text="@string/challenge_smiley"
-            android:layout_marginTop="50dp" />
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_marginBottom="40dp"
-                android:layout_height="match_parent"
-                android:layout_marginLeft="20dp"
-                android:text="READY?"/>
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/smiley"/>
     </LinearLayout>
 
     <RelativeLayout
@@ -41,32 +45,31 @@
         android:background="#ffffff">
 
         <Button
-            android:layout_width="wrap_content"
-            android:paddingRight="30dp"
-            android:paddingLeft="30dp"
-            android:layout_height="40dp"
             android:id="@+id/back_btn"
-            android:text="Back"
-            android:background="@drawable/edit_profilr_btn"
-            android:textAllCaps="false"
-            android:layout_marginBottom="20dp"
-            android:layout_marginRight="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
             android:layout_alignParentLeft="true"
-            android:layout_marginLeft="10dp"/>
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="30dp"
+            android:background="#00B2EE"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:text="Back"
+            android:textAllCaps="false" />
 
         <Button
-            android:layout_width="wrap_content"
-            android:paddingRight="30dp"
-            android:paddingLeft="30dp"
-            android:layout_height="40dp"
             android:id="@+id/accept_btn"
-            android:text="Back"
-            android:background="@drawable/edit_profilr_btn"
-            android:textAllCaps="false"
-            android:layout_marginBottom="20dp"
-            android:layout_marginRight="30dp"
-            android:layout_alignParentRight="true"
-            android:layout_marginLeft="10dp"/>
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="29dp"
+            android:background="#00B2EE"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:text="Bring it on"
+            android:textAllCaps="false" />
     </RelativeLayout>
 
 

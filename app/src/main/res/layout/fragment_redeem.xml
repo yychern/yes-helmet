@@ -5,33 +5,46 @@
     tools:context="com.collengine.sulu.rideshare.fragments.RedeemFragment">
 
     <ImageView
-        android:layout_width="60dp"
-        android:layout_height="60dp"
         android:id="@+id/redeem_bike_store"
-        android:layout_marginTop="100dp"
-        android:clickable="true"
-        android:layout_marginBottom="40dp"
-        android:src="@drawable/ic_action_unlock"
+        android:layout_width="95dp"
+        android:layout_height="79dp"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        />
-    <ImageView
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="201dp"
         android:clickable="true"
+        android:src="@drawable/migros" />
+
+    <ImageView
         android:id="@+id/redeem_starbucks"
-        android:layout_below="@+id/redeem_bike_store"
-        android:layout_marginBottom="40dp"
-        android:src="@drawable/ic_action_unlock"
+        android:layout_width="97dp"
+        android:layout_height="67dp"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        />
-    <ImageView
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:id="@+id/redeem_wallmart"
+        android:layout_marginBottom="87dp"
         android:clickable="true"
-        android:layout_marginBottom="40dp"
-        android:src="@drawable/ic_action_unlock"
+        android:src="@drawable/imax" />
+
+    <ImageView
+        android:id="@+id/redeem_helmet"
+        android:layout_width="103dp"
+        android:layout_height="69dp"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        />
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="206dp"
+        android:clickable="true"
+        android:src="@drawable/helmet" />
+
+    <ImageView
+        android:id="@+id/redeem_wallmart"
+        android:layout_width="153dp"
+        android:layout_height="65dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="80dp"
+        android:clickable="true"
+        android:src="@drawable/geneveroule" />
 
 </RelativeLayout>

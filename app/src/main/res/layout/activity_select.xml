@@ -7,59 +7,72 @@
     tools:context="com.collengine.sulu.rideshare.SelectActivity">
 
     <ImageView
-        android:layout_width="60dp"
-        android:layout_height="60dp"
         android:id="@+id/unlock_img"
+        android:layout_width="128dp"
+        android:layout_height="97dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="49dp"
         android:clickable="true"
-        android:layout_marginTop="100dp"
-        android:src="@drawable/ic_action_appature"
-        android:layout_centerHorizontal="true"
-        />
+        android:src="@drawable/bike" />
+
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Unlock Bike"
         android:id="@+id/text_unlock"
-        android:layout_marginTop="12dp"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@+id/unlock_img"
-        android:layout_marginBottom="30dp"/>
+        android:layout_width="166dp"
+        android:layout_height="39dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/unlock_img"
+        android:layout_marginTop="161dp"
+        android:fontFamily="serif"
+        android:text="Unlock Bike"
+        android:textSize="18sp"
+        android:textStyle="normal" />
 
     <ImageView
-        android:layout_width="60dp"
-        android:layout_height="60dp"
         android:id="@+id/challenge_img"
+        android:layout_width="114dp"
+        android:layout_height="93dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/text_challenge"
+        android:layout_marginTop="226dp"
         android:clickable="true"
-        android:layout_below="@+id/text_unlock"
-        android:src="@drawable/ic_action_unlock"
-        android:layout_centerHorizontal="true"
-        />
+        android:src="@drawable/game" />
+
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Play The Challenge"
-        android:layout_marginTop="12dp"
         android:id="@+id/text_challenge"
-        android:layout_marginBottom="30dp"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@+id/challenge_img"/>
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="213dp"
+        android:layout_marginEnd="90dp"
+        android:fontFamily="serif"
+        android:text="Play The Challenge"
+        android:textSize="18sp"
+        android:textStyle="normal" />
 
     <ImageView
-        android:layout_width="60dp"
-        android:layout_height="60dp"
         android:id="@+id/yes_points_img"
+        android:layout_width="126dp"
+        android:layout_height="88dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="101dp"
+        android:layout_marginEnd="53dp"
         android:clickable="true"
-        android:layout_below="@+id/text_challenge"
-        android:src="@drawable/ic_action_unlock"
-        android:layout_centerHorizontal="true"
-        />
+        android:src="@drawable/coin" />
+
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Check Yes Points"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="12dp"
-        android:layout_below="@+id/yes_points_img"/>
+        android:layout_width="159dp"
+        android:layout_height="29dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/yes_points_img"
+        android:layout_marginBottom="53dp"
+        android:fontFamily="serif"
+        android:text="Check Points"
+        android:textSize="18sp"
+        android:textStyle="normal" />
 
 
 </RelativeLayout>

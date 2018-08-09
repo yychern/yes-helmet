@@ -11,6 +11,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.collengine.sulu.rideshare.MainActivity;
+import com.collengine.sulu.rideshare.SelectActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -97,7 +98,7 @@ public class UserDataActivity extends AppCompatActivity {
         Toast.makeText( this , "Information Saved..." ,
                 Toast.LENGTH_LONG ). show ();
 
-        Intent myIntent = new Intent(UserDataActivity.this, MainActivity.class);
+        Intent myIntent = new Intent(UserDataActivity.this, SelectActivity.class);
         myIntent.putExtra("USER_ID", uid);
         startActivity(myIntent);
 
