@@ -19,3 +19,7 @@ Independent mobile-application, gamification of image processing feature, potent
 
 **Resources Needed/ Advices Needed**:
 Advices from game design expert and behavioral change expert. Access to bicyclists community in different cities, access to bicycle-sharing community in different cities.
+
+**Collaboration Needed**
+If you are a developer, we would love to have your help in refining and developing the App.
+If you are a bicyclists, do help us to share the idea/ app to your community, do give us feedback: teamyeshelmet@gmail.com
