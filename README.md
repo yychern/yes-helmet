@@ -32,6 +32,13 @@ The envisioned ideal business model for the mobile application is to partner wit
 **Resources Needed/ Advices Needed**:
 Advices from game design expert and behavioral change expert. Access to bicyclists community in different cities, access to bicycle-sharing community in different cities.
 
-**Collaboration Needed**
+**Collaboration Needed**:
 If you are a developer, we would love to have your help in refining and developing the App.
 If you are a bicyclists, do help us to share the idea/ app to your community, do give us feedback: teamyeshelmet@gmail.com
+
+**Reference and links**:
+	Twitter: https://twitter.com/yeshelmet 
+	L. Nicaj , C. Stayton , J. Mandel-Ricci , P. McCarthy , K. Grasso , D. Woloch & B. Kerker (2009) Bicyclist Fatalities in New York City: 1996–2005, Traffic Injury Prevention, 10:2, 157-161.
+	Fischer, C. M., et al. "Prevalence of bicycle helmet use by users of public bikeshare programs." Annals of Emergency Medicine 60.2(2012):228-231.
+	缪明月, 栗继红, and 蔡娜. "非机动车驾驶人佩戴安全头盔相关问题." 交通工程 1(2007):12-14.
+
