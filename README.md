@@ -17,6 +17,16 @@ Independent mobile-application, gamification of image processing feature, potent
 *Software Development*: Machine-learning helmet-detecting mobile application, gamification and incentivize users to wear the helmet.
 *Behavioural Change*: Market research, data collection, and social media campaigns in partnership with IO and NGO.
 
+**Theory of Change**:
+The theory of change of project yes helmet is to achieve the long-term outcome of reducing the mortality rate for bicycle-related accidents with helmet wearing, through the short-term outcome of raising awareness, induce behavioral change by encouraging a habit of wearing a helmet, and create a social trend of wearing a helmet. 
+
+The activities proposed are through a gamified mobile application that embodies machine learning and image classification to identify selfie images that contain bicycle helmets. Users of the mobile application will earn points and get rewards. Another activity proposed is to use the same application to unlock an NFC or Bluetooth bicycle lock by taking a selfie, a verified selfie with a helmet could unlock a bicycle. The third activity proposed to include a social media campaign in collaboration with NGO or International Organization, to mobilize social media users and create a social trend of wearing the helmet.
+
+The expected output of the projects is the number of users using the application and number of participants in the social media campaign. The input of the project are the works that we have done before and during the summer school, which include an online survey, on-site interview, exploration of partnership, programming of application, and documentation.
+
+The envisioned ideal business model for the mobile application is to partner with the existing bicycle sharing service provider, as well as ethical FMCG business and F&B franchise to provide incentives to users in the form of vouchers.
+
+
 **Resources Needed/ Advices Needed**:
 Advices from game design expert and behavioral change expert. Access to bicyclists community in different cities, access to bicycle-sharing community in different cities.
 
