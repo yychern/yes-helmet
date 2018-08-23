@@ -10,6 +10,8 @@ Team Yes Helmet is part of 2018 GTI SDG Summer School. We are dedicating to work
 yychern, nyanduko, and collengine; Our team members come from Southeast Asia and Africa, based in Geneva, Switzerland, collaborating with innovation labs in Europe and East Asia.
 
 **Problem Statement**:
+According to a study (Nicaj et al., 2009), in New York, head injuries contributed to more than three-quarters of bicyclist deaths. Only 3 percent of bicyclists were documented to be wearing helmets at the time of the fatal crash. The project aims to contribute to SDG Goal 3.6, “by 2020, halve the number of global deaths and injuries from road traffic accidents.” We are focusing on encouraging helmet-wearing to increase the safety for bicyclists around the globe, to raise awareness, bring behavioral change, and create social change through mobile-based solutions.
+
 High mortality rate due to bike accidents; Non-compliance to set helmet laws or lack of laws altogether; People are not self- motivated to wear helmets.
 
 **Solutions**:
